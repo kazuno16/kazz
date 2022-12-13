@@ -64,18 +64,6 @@ FPS Build: https://resclientfps.vercel.app/
 
 ### Code:
 
-Nitwit (hooman#1196)
-
-### Texture packs: 
-
-* BDA_ (BDA_#9354) 
-* Vortexian (Vortexian#8232)
-* Woody (woody#2887)
-* Nine4 (nine4#3938)
-* baa (baa#9365)
-* luv (luv#4458)
-* neon (@N3_nl3z#7348)
-* PrecisionClient (discord.gg/agFak6frsj or etcher#1849)
 
 ### Pack selection screen & ChangeLog:
 
